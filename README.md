@@ -15,6 +15,7 @@ Para o funcionamento da aplicação necessário executar os seguintes comandos n
 ```bash
 yarn install
 ```
+OBS: caso utilize o npm, delete o yarn.lock e use o npm install
 
 Para executar a API
 ```bash
