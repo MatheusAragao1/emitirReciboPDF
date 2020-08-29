@@ -6,7 +6,7 @@ Desenvolvido usando o Node.js, React, Express, Axios, File-saver, Body-parser, C
 
 A partir do preenchimento de um formulário na página principal do projeto um arquivo de recibo em formato pdf é gerado.
 
-OBS o campo 'Nome da empresa' está sendo armazenado em localStorage.
+OBS: o campo 'Nome da empresa' está sendo armazenado em localStorage.
 
 ## Instalação
 
@@ -17,12 +17,12 @@ yarn install
 ```
 OBS: caso utilize o npm, delete o yarn.lock e use o npm install
 
-Para executar a API
+### Para executar a API
 ```bash
 yarn nodemon index.js
 ```
 
-Para executar o frontend
+### Para executar o frontend
 ```bash
 yarn start
 ```
