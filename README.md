@@ -5,6 +5,7 @@ Desenvolvido usando o Node.js, React, Express, Axios, File-saver, Body-parser, C
 ## Funcionalidades
 
 A partir do preenchimento de um formulário na página principal do projeto um arquivo de recibo em formato pdf é gerado.
+
 OBS o campo 'Nome da empresa' está sendo armazenado em localStorage.
 
 ## Instalação
